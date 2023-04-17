@@ -1,0 +1,6 @@
+train: /kaggle/input/aerial-view-car-detection-for-yolov5/mydata/mydata/images/train  # train images (relative to 'path') 128 images
+val: /kaggle/input/aerial-view-car-detection-for-yolov5/mydata/mydata/images/test  # val images (relative to 'path') 128 images
+
+# Classes
+nc: 1  # number of classes
+names: ['car']  # class names
