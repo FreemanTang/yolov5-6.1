@@ -1,1 +1,1 @@
-print('Hello eiou loss!')
+print('Hello eiou !')
