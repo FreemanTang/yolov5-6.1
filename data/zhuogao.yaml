@@ -1,0 +1,10 @@
+# path: ../datasets/zhuogao_data2/
+path: /kaggle/input/zhuogao-data/zhuogao_data4
+train: /kaggle/input/zhuogao-data/zhuogao_data4/trainset/images
+val: /kaggle/input/zhuogao-data/zhuogao_data4/testset/images
+test: /kaggle/input/zhuogao-data/zhuogao_data4/testset/images
+
+# Classes
+nc: 5
+names: ["kuailoutu","dianloutu", "zhenkong", "heidian","huahen"]
+
